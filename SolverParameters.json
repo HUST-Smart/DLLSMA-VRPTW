@@ -1,0 +1,38 @@
+{
+    "seed": -1,
+    "runTimer": 7200,
+    "dimacsPrint": 0,
+    "infoFlag": 1,
+    "debugFlag": 1,
+    "errorFlag":1,
+    "callMinRouteNumber":1,
+    
+
+  "AlgorithmParameters": {
+
+    "initSetSize": 50,
+    "populationSizeMin": 4,
+    "populationSizeMax": 50,
+
+    "maxStagnationIterOfRepair": 200,
+
+    "minKmax": 2,
+    "maxKmax": 4,
+    "eamaEaxCh": 20,
+    "abCycleWinkRate": 0.99,
+    "perturbNeiborRange": 60,
+    "perturbIrand": 200,
+    "neiborSizeMin": 20,
+    "routeWeightUpStep": 1,
+    "neiborSizeMax": 50,
+    "customersWeight1":1,
+    "customersWeight2":2,
+
+    "ruinSplitRate": 0.0,
+    "ruinLmax": 20,
+    "ruinC_Min": 15,
+    "ruinC_Max": 35,
+    "ruinWinkRate": 0.90,
+    "initWinkRate": 0.99
+  }
+}
