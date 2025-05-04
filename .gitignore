@@ -1,5 +1,4 @@
 /.vs
-/Results/*.csv
 /Dev/*.exe
 /Dev/dimacsVRP.pdb
 /Dev/dimacsVRP.iobj

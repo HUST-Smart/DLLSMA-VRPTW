@@ -1,6 +1,6 @@
 {
     "seed": -1,
-    "runTimer": 7200,
+    "runTimer": 18000,
     "dimacsPrint": 0,
     "infoFlag": 1,
     "debugFlag": 1,
@@ -17,14 +17,14 @@
     "maxStagnationIterOfRepair": 200,
 
     "minKmax": 2,
-    "maxKmax": 4,
+    "maxKmax": 5,
     "eamaEaxCh": 20,
     "abCycleWinkRate": 0.99,
-    "perturbNeiborRange": 60,
-    "perturbIrand": 200,
+    "perturbNeiborRange": 100,
+    "perturbIrand": 1000,
     "neiborSizeMin": 20,
     "routeWeightUpStep": 1,
-    "neiborSizeMax": 50,
+    "neiborSizeMax": 100,
     "customersWeight1":1,
     "customersWeight2":2,
 
